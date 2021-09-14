@@ -1,1 +1,2 @@
-PLATFORM=x86_64-pc-linux-gnu
+PLATFORM=arm-unknown-linux-gnueabi
+SDK_ROOT=$HOME/src/synology/sdk
